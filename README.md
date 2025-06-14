@@ -34,11 +34,11 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="65" height="65" />
+       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
     <td align="center" width="96">
@@ -86,7 +86,7 @@
 
 ## 🚀 Projects
 
-> *(Coming Soon!)*  
+> *(LookOut!)*  
 > I'm currently working on exciting Java and full-stack development projects. Stay tuned for updates here!
 
 ---
@@ -102,7 +102,7 @@
 ## 🌱 Currently Exploring
 
 - Spring MVC & JavaFX  
-- Frontend Optimization Techniques  
+- Frontend Optimization Techniques --> React
 - Test-Driven Development (TDD) in Full-Stack Environments
 
 ---
