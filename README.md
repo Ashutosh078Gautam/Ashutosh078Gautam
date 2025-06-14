@@ -84,31 +84,37 @@
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-### 🔸 Integrated Farmers Produce (2024)
-> A NABARD-based farm produce management system for managing products, customers, and vendors.
-
-- Built with: Java, MySQL, HTML, CSS, JavaScript, jQuery, Kendo Grid UI
-- Developed UI with JavaFX SceneBuilder for desktop version
-- Implemented dynamic UI and AJAX-based data display
-- Employed TDD approach for backend testing with JUnit
+> *(Coming Soon!)*  
+> I'm currently working on exciting Java and full-stack development projects. Stay tuned for updates here!
 
 ---
 
-## 📜 Certificates
+## 📜 Certifications
 
-- [✔️ Oracle Java Foundations](https://coursera.org/share/79fc4fd5ae3778efbea87430a6abdd62)  
-- [✔️ Introduction to Software Engineering – Amazon](https://coursera.org/share/3ace86f668ff0b65b914a94611fd12ca)  
-- [✔️ Data Structures & Algorithms – Amazon](https://coursera.org/share/c62943074f0b99a342e6b0f09cff8e35)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh078Gautam&theme=algolia" alt="mystreak"/>
-</p>
+- 🧠 [Introduction to Software Engineering – Amazon](https://coursera.org/share/3ace86f668ff0b65b914a94611fd12ca)  
+- ☕ [Oracle Java Foundations](https://coursera.org/share/79fc4fd5ae3778efbea87430a6abdd62)  
+- 📚 [Data Structures and Algorithms – Amazon](https://coursera.org/share/c62943074f0b99a342e6b0f09cff8e35)
 
 ---
 
+## 🌱 Currently Exploring
+
+- Spring MVC & JavaFX  
+- Frontend Optimization Techniques  
+- Test-Driven Development (TDD) in Full-Stack Environments
+
+---
+
+## 📫 Let's Connect
+
+I'm open to collaboration on Java-based projects, web applications, and open-source contributions!
+
+- 📧 Email: ashugauti247@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-gautam-47b650193)  
+- 🖥️ GitHub: [Ashutosh078Gautam](https://github.com/Ashutosh078Gautam)
+
+---
+
+*Thanks for visiting my profile! Feel free to ⭐️ a repo or drop me a message!*
